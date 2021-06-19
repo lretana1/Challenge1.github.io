@@ -4,11 +4,8 @@
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
-}
-
 /* Header CSS */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -43,6 +40,10 @@ body {
 }
 /* End Header CSS */
 
+body {
+    background-color: #d9dcd6;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -72,6 +73,7 @@ p {
 }
 
 /* Content CSS */
+/* condensed content to combine overlapping code into single class for content */
 .content {
     width: 75%;
     display: inline-block;
@@ -98,6 +100,7 @@ p {
 /* End Content CSS */
 
 /* Benefits CSS */
+/* condensed content to combine overlapping code into single class for benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
