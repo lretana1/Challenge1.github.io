@@ -1,7 +1,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Screenshot](#setup)
 
 ## General info
 This is my project for a javascript bootcamp.
@@ -11,6 +11,10 @@ Project is created with:
 * CSS
 * HTML
 
+## Screenshot
+![HoriseonWebsite](/assets/images/screenshot.png?raw=true "Horiseon website launch")
+
+
 	
-## Setup
-To run this project, install it locally using npm:
+
+
