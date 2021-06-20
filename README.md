@@ -1,4 +1,16 @@
-<h1>Table of contents<br></h1>
--General Info<br>
--Technologies used<br>
--Link to project<br>
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+This is my project for a javascript bootcamp.
+	
+## Technologies
+Project is created with:
+* CSS
+* HTML
+
+	
+## Setup
+To run this project, install it locally using npm:
