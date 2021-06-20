@@ -2,7 +2,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Screenshot](#screenshot)
-* [link to webpage](#Webpagelink)
+* [Webpagelink](#Webpagelink)
 
 ## General info
 This is my project for a javascript bootcamp.
@@ -16,6 +16,7 @@ Project is created with:
 ![HoriseonWebsite](/assets/images/screenshot.png?raw=true "Horiseon website launch")
 
 ##Webpagelink
+https://lretana1.github.io/HoriseonWebsiteChallenge/
 
 
 
