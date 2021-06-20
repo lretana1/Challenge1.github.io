@@ -1,4 +1,4 @@
-Table of contents
--General Info
--Technologies used
--Link to project
+Table of contents<br>
+-General Info<br>
+-Technologies used<br>
+-Link to project<br>
