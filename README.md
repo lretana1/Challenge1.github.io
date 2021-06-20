@@ -12,7 +12,7 @@ Project is created with:
 * HTML
 
 ## Screenshot
-![HoriseonWebsite](images/screenshot.png?raw=true "Horiseon website launch")
+![HoriseonWebsite](../assetsimages/screenshot.png?raw=true "Horiseon website launch")
 
 
 	
