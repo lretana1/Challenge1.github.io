@@ -2,3 +2,15 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+
+## General info
+This is my project for a javascript bootcamp.
+	
+## Technologies
+Project is created with:
+* CSS
+* HTML
+
+	
+## Setup
+To run this project, install it locally using npm:
