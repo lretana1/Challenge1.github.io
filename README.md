@@ -1,7 +1,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Screenshot](#setup)
+* [Screenshot](#screenshot)
 
 ## General info
 This is my project for a javascript bootcamp.
