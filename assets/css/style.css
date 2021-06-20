@@ -44,6 +44,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Removes underline from links and switches them to a white color*/
 a {
     color: #ffffff;
     text-decoration: none;
