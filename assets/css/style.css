@@ -18,7 +18,7 @@
     display: inline-block;
     font-size: 48px;
 }
-
+/* changes color of the SEO in Horiseon to contrast it*/
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -41,6 +41,7 @@
 }
 /* End Header CSS */
 
+/*Sets color of the entire webpage*/
 body {
     background-color: #d9dcd6;
 }
@@ -55,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/*sets the hero image at the top of the page without cropping any part of the image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -64,11 +66,13 @@ p {
     background-position: center;
 }
 
+/*set image for search engine optimization and social media marketing to the left of text*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*sets image for online reputation management to the right of the text*/
 .float-right {
     float: right;
     margin-left: 25px;
