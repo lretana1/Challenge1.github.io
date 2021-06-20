@@ -1,4 +1,4 @@
 <h1>Table of contents<br></h1>
-*General info
-*Technologies used
-*Link to project
+-General info<br>
+-Technologies used<br>
+-Link to project<br>
