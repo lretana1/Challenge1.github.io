@@ -1,4 +1,4 @@
-<h1>Table of contents<br></h1>
--General info<br>
--Technologies used<br>
--Link to project<br>
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
