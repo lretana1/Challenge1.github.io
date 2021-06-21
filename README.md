@@ -13,7 +13,7 @@ Project is created with:
 * HTML
 
 ## Screenshot
-![HoriseonWebsite](/assets/images/screenshot-img.png?raw=true "Horiseon website launch")
+![HoriseonWebsite](/assets/images/screenshot.png?raw=true "Horiseon website launch")
 
 ## Webpagelink
 https://lretana1.github.io/HoriseonWebsiteChallenge/
