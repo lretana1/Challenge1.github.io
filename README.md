@@ -16,7 +16,7 @@ Project is created with:
 ![HoriseonWebsite](/assets/images/screenshot.png?raw=true "Horiseon website launch")
 
 ## Webpagelink
-https://lretana1.github.io/HoriseonWebsiteChallenge/
+https://lretana1.github.io/HoriseonWebsiteLandingPage/
 
 
 
